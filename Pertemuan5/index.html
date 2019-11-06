@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jendela Dialog Javascript</title>
+</head>
+<body>
+
+	<button onclick="alert('Welcome back to my channel')"> Klik Dong</button> 
+	Kalau Di hapus Silahkan 
+	<button onclick="confirm('Apakah antum ingin menghapus data? ')"> Hapus</button>
+	Silahkan Kepada Bpk/Ibu
+	<button onclick="prompt('Silahkan Diisi Namanya', ' ')"> Isi Buku Tamu </button>
+
+	<!-- Belajar Jendela Dialog Javascript -->
+	<script type="text/javascript">
+		// Jendela dialog ada 3 yang sering digunakan
+		// alert(), Confirm(), prompt()
+
+		// alert() jika ining menampilkan sebuah informasi
+		// confirm() jika menginginkan konfirmasi seperti delete data
+		// prompt() jika kita ingin mengambil nilai suatu data dari inputan jendela dialog
+
+		alert('Selamat Datang Di Website Sharing Programming');
+
+		var hapus = confirm('Apakah antum ingin menghapus data ini ?');
+
+		if (hapus) {
+			document.write('Berhasil menghapus Data');
+		} else {
+			document.write('Batal menghapus Data');
+		}
+
+		var nama = prompt("Silahkan Isi Namanya :", " ");
+
+		alert("Selamat datang kepada" + nama);
+
+		document.write("Saudara" + nama + " Silahkan duduk di tempatnya");
+
+	</script>
+
+</body>
+</html>
