@@ -28,3 +28,7 @@ merupakan bahasa pemrograman web yang bersifat Client Side Programming Language.
 - Pertemuan4 ==> Fungsi dan Parameter JS
 - Pertemuan5 ==> Jendela Dialog JS
 - Pertemuan6 ==> Operator Aritmatika JS
+
+## Referensi Belajar
+
+Fundamentals Javascript = https://javascript.info/ & https://www.w3schools.com/js/default.asp
