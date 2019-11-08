@@ -6,16 +6,79 @@
 <body>
 
 	<h4>Belajar Variabel dan Komentar</h4>
-
-	<!-- Komentar -->
+	
 	<script type="text/javascript">
-		// 	Ini komentar untuk satu baris code
-		/*
-			Ini komentar untuk 
-			banyak baris code
+		/*=============================
+		 	KOMENTAR
+		=============================/*
+			// 	Ini komentar untuk satu baris code
+			   	Ini komentar untuk banyak baris code
 		*/	
 
-		// 	Pengenala Variable pada Javascript	
+		/*=====================================
+			VARIABLE
+			Variable adalah tempat untuk menyimpan informasi atau data
+		=====================================*/
+
+		// Pembuatan variable dalam javascript dengan menggunakan let
+		let message;
+
+		//  Sekarang, kita bisa memasukkan beberapa data ke dalamnya dengan menggunakan operator penugasan =
+		let message;
+			message = 'Hello World'; // store the string
+
+		// String disimpan ke area memori yang terkait dengan variabel. Kita dapat mengaksesnya menggunakan nama variabel:
+		let message;
+			message = 'Hello World';
+
+			alert(message); // shows the variable content
+
+		// Agar ringkas, kita bisa menggabungkan deklarasi variabel dan penugasan menjadi satu baris:
+		let message = 'Hello World'; 
+			alert(message);
+
+		// Variable multiline sedikit lebih panjang namun lebih mudah dibaca
+		let user = 'Sigit wasis subekti';
+		let umur = 18;
+		let message = 'Selamat Belajar';
+
+		// Mendeklarasikan dua variable dan menyalin dari satu ke yang lainnya
+
+		let hello = 'Hello Dunia';
+		let message;
+
+		// Copy 'Hello World' dari hello ke message
+		message = hello;
+		
+		// Sekarang jika di jalankan maka akan sama hasilnya
+		alert(message);
+		alert(hello);
+
+
+		/***********************
+			PENAMAAN VARIABLE
+		***********************/
+
+		/* 	Ada dua batasan pada nama variabel dalam JavaScript:
+		   	Nama harus mengandung hanya huruf, angka, atau simbol $dan_ .
+	 		Karakter pertama tidak boleh digit. 
+	 	*/
+
+	 	// Contoh nama variable yang valid
+	 	let = userName;
+	 	let = test123;
+
+	 	// Yang menarik - tanda dolar '$'dan garis bawah'_' juga bisa digunakan dalam nama. Itu adalah simbol biasa, seperti halnya huruf, tanpa makna khusus.
+
+		// Nama-nama ini valid:
+		let $ = 1; // deklarasi sebuah variable dengan $
+		let _ = 2; // deklarasi sebuah varibale dengan _
+
+		alert($ + _);
+
+		
+
+
 		var namaLengkap = 	'Sigit wasis subekti';
 		var umur		=	18;
 

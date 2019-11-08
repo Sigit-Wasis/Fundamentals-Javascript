@@ -15,6 +15,10 @@ merupakan bahasa pemrograman web yang bersifat Client Side Programming Language.
 - External JS:
 	<script type="text/javascript" src="skrip.js"></script>
 
+## Use Strict
+	Ini adalah kasus sampai 2009 ketika ECMAScript 5 (ES5) muncul. Itu menambahkan fitur baru ke bahasa dan memodifikasi beberapa yang sudah ada. Agar kode lama berfungsi, sebagian besar modifikasi tidak aktif secara default. Anda perlu secara eksplisit memungkinkan mereka dengan direktif khusus: "use strict".
+
+	"use strict" dapat diletakkan di awal fungsi tubuh, bukan seluruh skrip dan sudah di dukung oleh semua browser.
 
 ## Materi Javascript
 
