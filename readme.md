@@ -1,6 +1,10 @@
+## Dasar Pemrograman
+
+Pemrograman adalah untuk mengetahui pengertian pemrograman harus paham terlebih dahulu apa itu program, program adalah Urutan instruksi terstruktur, yang dirancang agar komputer dapat berperilaku sesuai dengan ketentuan, dengan tujuan untuk menyelesaikan sebuah pekerjaan. Instruksi yang kita berikan ke dalam komputer disebut dengan statement dan sudah dalam bahasa pemrograman. jadi pemgrograman adalah Cara kita untuk memberikan instruksi yang simpel dan terstruktur dalam komputer.  
+
 ## Javascript
 
-merupakan bahasa pemrograman web yang bersifat Client Side Programming Language.
+javascript merupakan bahasa pemrograman web yang bersifat Client Side Programming Language.
 
 ## Penerapan Javascript
 
@@ -24,13 +28,13 @@ merupakan bahasa pemrograman web yang bersifat Client Side Programming Language.
 
 ## Materi Javascript
 
-- Pertemuan1 ==> Penerapan JS
-- Pertemuan2 ==> Variable dan Komentar JS
-- Pertemuan3 ==> Tipe Data JS
-- Pertemuan4 ==> Fungsi dan Parameter JS
-- Pertemuan5 ==> Jendela Dialog JS
-- Pertemuan6 ==> Operator Aritmatika JS
+- Pertemuan1 { Penerapan JS }
+- Pertemuan2 { Variable dan Komentar JS }
+- Pertemuan3 { Tipe Data JS }
+- Pertemuan4 { Fungsi dan Parameter JS }
+- Pertemuan5 { Jendela Dialog JS }
+- Pertemuan6 { Operator Aritmatika JS }
 
 ## Referensi Belajar
 
-Fundamentals Javascript = https://javascript.info/ & https://www.w3schools.com/js/default.asp
+Fundamentals Javascript = https://javascript.info/ & https://www.w3schools.com/js/default.asp & Youtube Web Programming Unpas.
