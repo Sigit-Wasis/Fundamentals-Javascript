@@ -1,6 +1,14 @@
 ## Dasar Pemrograman
 
-Pemrograman adalah untuk mengetahui pengertian pemrograman harus paham terlebih dahulu apa itu program, program adalah Urutan instruksi terstruktur, yang dirancang agar komputer dapat berperilaku sesuai dengan ketentuan, dengan tujuan untuk menyelesaikan sebuah pekerjaan. Instruksi yang kita berikan ke dalam komputer disebut dengan statement dan sudah dalam bahasa pemrograman. jadi pemgrograman adalah Cara kita untuk memberikan instruksi yang simpel dan terstruktur dalam komputer.  
+Sebelum mengetahui pengertian pemrograman harus paham terlebih dahulu apa itu program, program adalah Urutan instruksi terstruktur, yang dirancang agar komputer dapat berperilaku sesuai dengan ketentuan, dengan tujuan untuk menyelesaikan sebuah pekerjaan. Instruksi yang kita berikan ke dalam komputer disebut dengan statement yang sudah dalam bentuk bahasa pemrograman. jadi pemgrograman adalah Cara kita untuk memberikan instruksi yang simpel dan terstruktur dalam komputer. 
+
+## Bahasa Pemrograman
+
+## Compailer & Interpreter
+
+Compailer adalah suatu program yang menerjemahkan bahasa pemrograman (source code) kedalam bahasa objek (bahasa assembely), kemudian Objek code dihubungkan dengan library yang membuat file dapat dieksekusi seperti file.exe.
+
+Interpreter adalah Perangkat lunak yang mampu mengeksekusi code program lalu menerjemahkannya ke dalam bahasa mesin, sehingga mesin melakukan instruksi yang diminta oleh programmer tersebut.
 
 ## Javascript
 
