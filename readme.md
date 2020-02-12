@@ -5,7 +5,9 @@ merupakan bahasa pemrograman web yang bersifat Client Side Programming Language.
 ## Penerapan Javascript
 
 - Inline JS:
-	<a href="#" onclick="alert('Hai...!!!')"> Klik Aku </a>
+	<script type="text/javascript">
+		<a href="#" onclick="alert('Hai...!!!')"> Klik Aku </a>
+	</script>
 
 - Internal JS:
 	<script type="text/javascript">
