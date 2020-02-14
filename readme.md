@@ -4,6 +4,8 @@ Sebelum mengetahui pengertian pemrograman harus paham terlebih dahulu apa itu pr
 
 ## Bahasa Pemrograman
 
+Bahasa Pemrograman merupakan suatu himpunan dari aturan sintaks dan semantik yang dipakai untuk mendefinisikan program komputer.
+
 ## Compailer & Interpreter
 
 Compailer adalah suatu program yang menerjemahkan bahasa pemrograman (source code) kedalam bahasa objek (bahasa assembely), kemudian Objek code dihubungkan dengan library yang membuat file dapat dieksekusi seperti file.exe.
