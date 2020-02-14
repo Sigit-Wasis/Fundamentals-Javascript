@@ -12,6 +12,23 @@ Compailer adalah suatu program yang menerjemahkan bahasa pemrograman (source cod
 
 Interpreter adalah Perangkat lunak yang mampu mengeksekusi code program lalu menerjemahkannya ke dalam bahasa mesin, sehingga mesin melakukan instruksi yang diminta oleh programmer tersebut.
 
+## Kenapa Javascript?
+
+1. Gratis
+2. Tidak Perlu Instalasi karena setiap browser sudah memiliki Javascript
+3. Hanya butuh web browser
+4. Salah satu bahasa pemrograman yang populer
+
+Menurut Wikipedia Javascript adalah :
+
+1. High Level Language
+2. Scripting Language
+3. Javascript Bahasa Interpreted
+
+Quote
+
+> Easy to Learn, Hard to Master
+
 ## Javascript
 
 javascript merupakan bahasa pemrograman web yang bersifat Client Side Programming Language.
